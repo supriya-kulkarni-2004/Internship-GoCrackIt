@@ -1,4 +1,4 @@
-# Mentor Recommendation Engine (Internship Project)
+# Mentor Recommendation Engine (GoCrackIt Internship Project)
 ## Overview
 Developed a Mentor Recommendation Engine using **NLP** and to match mentees with the most suitable mentors based on their searches. The system leverages embedding models to compute similarity scores and provide accurate recommendations.
 
