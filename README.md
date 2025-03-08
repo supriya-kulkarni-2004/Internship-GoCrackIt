@@ -11,7 +11,6 @@ Optimized data processing and model inference for faster response times.
 Python, Flask, NumPy, Pandas
 NLP & Embeddings (SentenceTransformer)
 Vector Similarity Search
-React.js (Frontend Integration)
 
 ##
 🚫 The full source code is under NDA and cannot be shared.
